@@ -9,11 +9,17 @@ The Goal: Similar to the first project, this project also uses the random module
 Concepts to keep in mind:
 
 Random function
+
 Variables
+
 Integers
+
 Input/Output
+
 Print
+
 While loops
+
 If/Else statements
 
 Jumping off the first project, this project continues to build up the base knowledge and introduces user-inputted data at its very simplest. With user input, we start to get into a little bit of variability.
