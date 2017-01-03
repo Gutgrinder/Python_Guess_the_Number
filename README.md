@@ -15,4 +15,5 @@ Input/Output
 Print
 While loops
 If/Else statements
+
 Jumping off the first project, this project continues to build up the base knowledge and introduces user-inputted data at its very simplest. With user input, we start to get into a little bit of variability.
